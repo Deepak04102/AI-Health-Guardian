@@ -1,0 +1,7 @@
+{
+  "name": "HealthGuardian AI",
+  "description": "An advanced AI-powered health monitoring and diagnostic assistant that analyzes symptoms and provides actionable wellness plans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
